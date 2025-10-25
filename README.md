@@ -1,3 +1,10 @@
+[![GitHub Written in](https://img.shields.io/badge/Written%20in-Python%20%7C%20C%2B%2B-blue)](https://github.com/Pavith19/LeetCode-Solutions)
+[![GitHub last commit](https://img.shields.io/github/last-commit/Pavith19/LeetCode-Solutions)](https://github.com/Pavith19/LeetCode-Solutions/commits/main)
+[![GitHub repo size](https://img.shields.io/github/repo-size/Pavith19/LeetCode-Solutions)](https://github.com/Pavith19/LeetCode-Solutions)
+![ViewCount](https://views.whatilearened.today/views/github/Pavith19/LeetCode-Solutions.svg?cache=remove)
+[![LeetCode Problems](https://img.shields.io/badge/LeetCode-3625%20Problems-orange)](https://github.com/Pavith19/LeetCode-Solutions)
+[![GitHub stars](https://img.shields.io/github/stars/Pavith19/LeetCode-Solutions?style=social)](https://github.com/Pavith19/LeetCode-Solutions/stargazers)
+
 # LeetCode Solutions Repository
 
 A comprehensive collection of solutions to all 3,625 LeetCode problems, implemented in both Python and C++.
